@@ -1,0 +1,16 @@
+==> 2026-01-12 08:18:39 <==
+# cmd: C:\Users\sumee\anaconda3\Scripts\conda-script.py create -p venv python==3.8 -y
+# conda version: 24.11.3
++conda-forge/noarch::ca-certificates-2026.1.4-h4c7d964_0
++conda-forge/noarch::pip-24.3.1-pyh8b19718_0
++conda-forge/noarch::setuptools-75.3.0-pyhd8ed1ab_0
++conda-forge/noarch::wheel-0.45.1-pyhd8ed1ab_0
++conda-forge/win-64::libsqlite-3.51.2-hf5d6505_0
++conda-forge/win-64::openssl-1.1.1w-hcfcfb64_0
++conda-forge/win-64::python-3.8.0-hc9e8b01_5
++conda-forge/win-64::sqlite-3.51.2-hdb435a2_0
++conda-forge/win-64::ucrt-10.0.26100.0-h57928b3_0
++conda-forge/win-64::vc-14.3-h41ae7f8_34
++conda-forge/win-64::vc14_runtime-14.44.35208-h818238b_34
++conda-forge/win-64::vcomp14-14.44.35208-h818238b_34
+# update specs: ['python==3.8']
